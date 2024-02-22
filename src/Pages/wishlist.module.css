@@ -1,0 +1,15 @@
+.rowSelected {
+    background-color: var(--mantine-color-blue-light);
+  }
+
+  .wrapper {
+    display: flex;
+    align-items: center;
+    padding: calc(var(--mantine-spacing-xl) * 2);
+    
+  
+    @media (max-width: $mantine-breakpoint-sm) {
+      flex-direction: column-reverse;
+      padding: var(--mantine-spacing-xl);
+    }
+  }
