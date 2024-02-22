@@ -1,3 +1,8 @@
+Hosted link: shoperzone.netlify.app
+
+demo email to login: abhinavnaman6@gmail.com
+demo password to login : 12345678910
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
