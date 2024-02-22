@@ -1,4 +1,4 @@
-Hosted link: shoperzone.netlify.app
+Hosted link: https://shoperzone.netlify.app/
 
 demo email to login: abhinavnaman6@gmail.com
 demo password to login : 12345678910
